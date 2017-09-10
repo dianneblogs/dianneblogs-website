@@ -1,9 +1,11 @@
 ---
 layout: misc
 title: About
+author: Dianne
+image:
+  feature: self.jpg
 ---
 
-# DOT INTRODUCTION
 ## Daughter of the King. Coffee Drinker. Comp Sci Major. Adventurer.
 
 Hi there! Nice to meet you! My [middle] name is Dianne. I am so glad you are here.
