@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/facts/About-the-Author.html</loc>
+<loc>http://localhost:4000/facts/About-the-Author.html</loc>
 <lastmod>2017-09-07T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>/pages/about.html</loc>
+<loc>http://localhost:4000/pages/about.html</loc>
 </url>
 <url>
-<loc>/pages/contact.html</loc>
+<loc>http://localhost:4000/pages/contact.html</loc>
 </url>
 <url>
-<loc>/pages/documentation.html</loc>
+<loc>http://localhost:4000/pages/documentation.html</loc>
 </url>
 <url>
-<loc>/pages/facts.html</loc>
+<loc>http://localhost:4000/pages/facts.html</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>/pages/resources.html</loc>
+<loc>http://localhost:4000/pages/resources.html</loc>
 </url>
 <url>
-<loc>/pages/sample-posts.html</loc>
+<loc>http://localhost:4000/pages/sample-posts.html</loc>
 </url>
 </urlset>
