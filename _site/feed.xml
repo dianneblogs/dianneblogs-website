@@ -7,15 +7,15 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>First Travel Post!</title>
+				<title>Winter Break Spain Trip!</title>
 				
 				
-					<description>&lt;p&gt;This is my first travel post!&lt;/p&gt;
+					<description>&lt;p&gt;&lt;img src=&quot;/assets/img/kansas_truck_picture.jpg&quot; alt=&quot;Sedgwick County Park&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Sun, 01 Oct 2017 00:00:00 -0600</pubDate>
-				<link>http://localhost:4000/travel/First-Travel.html</link>
-				<guid isPermaLink="true">http://localhost:4000/travel/First-Travel.html</guid>
+				<link>http://localhost:4000/travel/Travel-Template.html</link>
+				<guid isPermaLink="true">http://localhost:4000/travel/Travel-Template.html</guid>
 			</item>
 		
 			<item>
@@ -66,6 +66,19 @@
 				<pubDate>Thu, 07 Sep 2017 00:00:00 -0600</pubDate>
 				<link>http://localhost:4000/facts/About-the-Author.html</link>
 				<guid isPermaLink="true">http://localhost:4000/facts/About-the-Author.html</guid>
+			</item>
+		
+			<item>
+				<title>Barcelona, Spain</title>
+				
+				
+					<description>&lt;h1 id=&quot;barcelona-spain&quot;&gt;Barcelona, Spain&lt;/h1&gt;
+
+</description>
+				
+				<pubDate>Sun, 08 Jan 2017 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/travel/Spain-Trip.html</link>
+				<guid isPermaLink="true">http://localhost:4000/travel/Spain-Trip.html</guid>
 			</item>
 		
 			<item>
