@@ -22,4 +22,4 @@ When the clock struck 12:01, pure madness overloaded the house. Everyone opened 
 
 Christmas day was spent hanging out with friends and family!
 
-![alt-text](kansas_truck_picture.jpg)
+![Sedgwick County Park](/assets/img/kansas_truck_picture.jpg){:class="img-responsive"}
