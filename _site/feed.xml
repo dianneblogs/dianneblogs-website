@@ -7,68 +7,6 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Winter Break Spain Trip!</title>
-				
-				
-					<description>&lt;p&gt;&lt;img src=&quot;/assets/img/kansas_truck_picture.jpg&quot; alt=&quot;Sedgwick County Park&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 01 Oct 2017 00:00:00 -0600</pubDate>
-				<link>http://localhost:4000/travel/Travel-Template.html</link>
-				<guid isPermaLink="true">http://localhost:4000/travel/Travel-Template.html</guid>
-			</item>
-		
-			<item>
-				<title>First Lifestyle Post!</title>
-				
-				
-					<description>&lt;p&gt;This is my first lifestyle  post!&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 01 Oct 2017 00:00:00 -0600</pubDate>
-				<link>http://localhost:4000/life/First-Lifestyle.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/First-Lifestyle.html</guid>
-			</item>
-		
-			<item>
-				<title>First Faith Post!</title>
-				
-				
-					<description>&lt;p&gt;This is my first faith  post!&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 01 Oct 2017 00:00:00 -0600</pubDate>
-				<link>http://localhost:4000/faith/First-Faith.html</link>
-				<guid isPermaLink="true">http://localhost:4000/faith/First-Faith.html</guid>
-			</item>
-		
-			<item>
-				<title>First College Post!</title>
-				
-				
-					<description>&lt;p&gt;This is my first college post!&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 01 Oct 2017 00:00:00 -0600</pubDate>
-				<link>http://localhost:4000/college/First-College.html</link>
-				<guid isPermaLink="true">http://localhost:4000/college/First-College.html</guid>
-			</item>
-		
-			<item>
-				<title>About the Author</title>
-				
-				
-					<description>&lt;h1 id=&quot;dot-introduction&quot;&gt;DOT INTRODUCTION&lt;/h1&gt;
-&lt;h2 id=&quot;daughter-of-the-king-coffee-drinker-comp-sci-major-adventurer&quot;&gt;Daughter of the King. Coffee Drinker. Comp Sci Major. Adventurer.&lt;/h2&gt;
-
-</description>
-				
-				<pubDate>Thu, 07 Sep 2017 00:00:00 -0600</pubDate>
-				<link>http://localhost:4000/facts/About-the-Author.html</link>
-				<guid isPermaLink="true">http://localhost:4000/facts/About-the-Author.html</guid>
-			</item>
-		
-			<item>
 				<title>Barcelona, Spain</title>
 				
 				
@@ -77,8 +15,8 @@
 </description>
 				
 				<pubDate>Sun, 08 Jan 2017 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/travel/Spain-Trip.html</link>
-				<guid isPermaLink="true">http://localhost:4000/travel/Spain-Trip.html</guid>
+				<link>http://localhost:4000/travel/Barcelona-Spain.html</link>
+				<guid isPermaLink="true">http://localhost:4000/travel/Barcelona-Spain.html</guid>
 			</item>
 		
 			<item>
