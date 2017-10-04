@@ -49,6 +49,6 @@ Our pastor, he welcomed us on our first service by introducing himself, by infor
 
 I was so in love of the grace this church has extended to EVERYONE. Never did I ever feel judged, never did I ever notice someone else judging. On top of that, we were introduced to a couple who are learning everything they can about church planting and later went to lunch with them after service. Our pastor also reached out to George and I to meet over coffee, to get to know each other on a personal level. Everyone in this church tries to do what they can to help others who are in need. It’s amazing!
 
-I am so thankful for what God has given us. We love our new home.
+I am so thankful for what God has given us. We love our new home!
 
 I hope you are doing well!
