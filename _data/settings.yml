@@ -11,7 +11,7 @@ disqus:
   disqus_shortname: 'dianneblogs'
 
 menu:
-- {name: 'About', file: 'about.html'}
+- {name: 'Home', file: 'home.html'}
 - {name: 'Faith', file: 'faith.html'}
 - {name: 'College', file: 'college.html'}
 - {name: 'All Things Life', file: 'lifestyle.html'}
