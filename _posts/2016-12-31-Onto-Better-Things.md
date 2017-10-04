@@ -4,6 +4,8 @@ title: "I said, Onto Better Things: 2016 Wrap Up"
 author: "Dianne"
 categories: life
 tags: [life]
+image:
+    feature: onto_better_things.jpg 
 ---
 
 # January
