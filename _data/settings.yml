@@ -7,8 +7,8 @@ author:
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'millennial-3'
+  comments: true
+  disqus_shortname: 'dianneblogs'
 
 menu:
 - {name: 'About', file: 'about.html'}
@@ -16,7 +16,6 @@ menu:
 - {name: 'College', file: 'college.html'}
 - {name: 'All Things Life', file: 'lifestyle.html'}
 - {name: 'Travel', file: 'travel.html'}
-- {name: 'Contact', file: 'contact.html'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/dianneblogs'}
