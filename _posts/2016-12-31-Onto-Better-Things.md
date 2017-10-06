@@ -2,10 +2,10 @@
 layout: post
 title: "I said, Onto Better Things: 2016 Wrap Up"
 author: "Dianne"
-categories: life
+categories: life blog
 tags: [life]
 image:
-    feature: onto_better_things.jpg 
+    feature: onto_better_things.jpg
 ---
 
 # January

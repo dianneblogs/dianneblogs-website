@@ -2,7 +2,8 @@
 layout: post
 title: "Christmas in Kansas 2016"
 author: "Dianne"
-categories: travel
+page: blog
+categories: travel blog
 tags: [trave]
 image:
    feature: walts_kansas.jpg

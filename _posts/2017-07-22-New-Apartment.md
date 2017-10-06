@@ -2,7 +2,7 @@
 layout: post
 title: "New Apartment"
 author: "Dianne"
-categories: life
+categories: life blog
 tags: [life]
 image:
     feature: apartment/apt_feature_image.jpg

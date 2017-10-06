@@ -2,7 +2,7 @@
 layout: post
 title: "Simplest College Guide"
 author: "Dianne"
-categories: college
+categories: college blog
 tags: [college]
 image:
     feature: college/college_essentials.jpg
@@ -59,4 +59,4 @@ When you finally receive your syllabi, create a master syllabus using excel. Inp
 Study the night before. If it’s a math class, study what you’re about to learn the next class. This will make your life so much easier! You’ll know what you’re about to cover and you can spend your next class asking questions and reinforcing what you’ve learned!
 
 ### PRACTICE, PRACTICE, PRACTICE
-Need I say more? 
+Need I say more?

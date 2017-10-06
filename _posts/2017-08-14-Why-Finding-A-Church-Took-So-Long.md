@@ -2,7 +2,7 @@
 layout: post
 title: "Why Finding A Church Took So Long"
 author: "Dianne"
-categories: faith
+categories: faith blog
 tags: [faith]
 image:
     feature: church_feature.jpg

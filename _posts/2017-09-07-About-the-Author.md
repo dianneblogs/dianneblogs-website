@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Dianne"
-categories: facts
+categories: facts blog
 tags: [sample]
 image:
   feature: self.jpg
