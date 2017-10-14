@@ -267,7 +267,7 @@ blockquote p {
 
 .menu-list {
   line-height: 56px;
-  float: right; }
+  text-align: center; }
 
 .menu-link {
   padding: 5px 10px; }
