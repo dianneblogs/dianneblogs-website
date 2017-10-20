@@ -7,7 +7,19 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-<<<<<<< HEAD
+				<title>Hi Friends</title>
+				
+				
+					<description>&lt;p&gt;Hi Friends! It’s been awhile since I last blogged.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 20 Oct 2017 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/life/blog/Hi-Friends.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/blog/Hi-Friends.html</guid>
+			</item>
+		
+			<item>
 				<title>Not All Relationships Are Meant To Last</title>
 				
 				
@@ -16,15 +28,12 @@
 </description>
 				
 				<pubDate>Mon, 25 Sep 2017 00:00:00 -0600</pubDate>
-				<link>http://localhost:4000/life/Not-All-Relationships-Are-Meant-To-Last.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/Not-All-Relationships-Are-Meant-To-Last.html</guid>
+				<link>http://localhost:4000/life/blog/Not-All-Relationships-Are-Meant-To-Last.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/blog/Not-All-Relationships-Are-Meant-To-Last.html</guid>
 			</item>
 		
 			<item>
-				<title>Barcelona, Spain</title>
-=======
 				<title>About the Author</title>
->>>>>>> 56611c306fb60ae11813ca3b6329300c27e786e6
 				
 				
 					<description>&lt;h1 id=&quot;dot-introduction&quot;&gt;DOT INTRODUCTION&lt;/h1&gt;
@@ -87,19 +96,6 @@
 				<pubDate>Sat, 31 Dec 2016 00:00:00 -0700</pubDate>
 				<link>http://localhost:4000/life/blog/Onto-Better-Things.html</link>
 				<guid isPermaLink="true">http://localhost:4000/life/blog/Onto-Better-Things.html</guid>
-			</item>
-		
-			<item>
-				<title>I said, Onto Better Things: 2016 Wrap Up</title>
-				
-				
-					<description>&lt;h1 id=&quot;january&quot;&gt;January&lt;/h1&gt;
-
-</description>
-				
-				<pubDate>Sat, 31 Dec 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/life/Onto-Better-Things.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/Onto-Better-Things.html</guid>
 			</item>
 		
 			<item>
