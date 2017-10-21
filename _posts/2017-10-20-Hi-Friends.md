@@ -5,7 +5,7 @@ author: "Dianne"
 categories: life blog
 tags: [life]
 image: 
-   feature: balloon_fiesta.jpg
+   feature: balloon_fiesta_t2.png
 ---
 
 Hi Friends! It's been awhile since I last blogged. 
