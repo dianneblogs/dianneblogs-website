@@ -5,8 +5,10 @@ author: "Dianne"
 categories: faith blog
 tags: [faith]
 image:
-    feature: church_feature.jpg
+    feature: john-price-27868.jpg
 ---
+*Photo by John Price on Unsplash*
+
 Since moving to America, I’ve gone through the process of finding a new church I can call home. I went through this process with my parents when I was 13. Eventually, we settled for a church and called it home since then. Until recently…
 
 Now that I’m a little older and able to shape my own opinions based on face value and research, the church my family has chosen and attended for years no longer felt like home. I am very thankful for the experiences throughout the years, but it’s just time to move on.

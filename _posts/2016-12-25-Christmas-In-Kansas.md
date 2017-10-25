@@ -6,7 +6,7 @@ page: blog
 categories: travel blog
 tags: [trave]
 image:
-   feature: walts_kansas.jpg
+  feature: walts.jpg
 ---
 
 Three days before Christmas 2016, G and I left Albuquerque to spend Christmas with his family in Kansas. We left around 21:00, making it the best decision ever because we missed all the weather!

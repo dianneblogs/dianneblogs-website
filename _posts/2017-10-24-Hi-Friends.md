@@ -5,10 +5,18 @@ author: "Dianne"
 categories: life blog
 tags: [life]
 image:
-   feature: balloon_fiesta_t2.png
+   feature: balloon2017.jpg
 ---
 
 Hi Friends! It's been awhile since I last blogged.
+
+And!!!! If you haven't noticed :) Welcome to Dianneblogs! I've worked so hard on this blog and I've learned so much in the process. Just heads up, the owner of the theme I'm using is currently working on some page features. You'll notice that when you first come to dianneblogs.com, there is an "older" and "newer" button on the very bottom, but non-existent on any of the tabs... so, yeah - bear with me(us?). Each tab should be updated with its corresponding post category and if you want to go "home", just hit "blog" (like I said, no older and newer buttons, yet). Oh! Don't click on the header image to go "home", it won't take you anywhere... (i know, need to work on the user-friendliness) and you'll just hate that you even thought about doing that.
+
+You all know, I blog as much as I can, but not very often and although I've learned a lot about deploying a website, it was still a lot of work and there is still a lot to learn. I'm hoping it gets better as time goes. Anyway, enjoy your time here and I'm so happy I finally get to share this with you!!
+
+*Disclaimer: I only transferred what I thought/felt was important from  dianneblogs.wordpress.com. Other than that, the rest are archived and I get to create new content for you!*
+
+**Now onto updates because who doesn't love an update?**   
 
 First of all, I am so happy many of you found my last post relatable. It brought me so much comfort that I can be vulnerable and share with you such experience and I am so happy to be there for those who are currently experiencing a similar situation. Thank you for reading, your comments meant the world to me.
 

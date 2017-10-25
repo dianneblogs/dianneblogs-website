@@ -5,7 +5,7 @@ author: "Dianne"
 categories: life blog
 tags: [life]
 image:
-   feature: rip_relationships.jpg
+   feature: relationships.jpg
 ---
 I don't know what your relationship experience looks like, but if you’re in a relationship right now – I’m praying it will work out (where both of you are fulfilled, not just the other person) and if it’s not meant to be, that you realize sooner than later.
 
@@ -58,5 +58,3 @@ I am happy to tell you, that I am so blessed to be where I am today and to be wi
 
 Keep it easy,
 Dianne
-
-

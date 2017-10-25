@@ -5,7 +5,7 @@ author: "Dianne"
 categories: life blog
 tags: [life]
 image:
-    feature: apartment/apt_feature_image.jpg
+    feature: apartment/apt_living01.jpg
 ---
 Happy Saturday Friends,
 
