@@ -10,6 +10,7 @@ disqus:
   comments: true
   disqus_shortname: 'dianneblogs'
 
+
 menu:
 - {name: 'Blog',  file: 'blog.html'}
 - {name: 'Faith', file: 'faith.html'}
