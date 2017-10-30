@@ -8,7 +8,7 @@ author:
 # Change to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'dianneblogs'
+  disqus_shortname: 'www-dianneblogs-com'
 
 # Google Tracking
 google-ID: 'UA-108973438-1'
