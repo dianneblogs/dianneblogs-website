@@ -15,8 +15,8 @@
 </description>
 				
 				<pubDate>Mon, 30 Oct 2017 00:00:00 -0600</pubDate>
-				<link>/life/blog/Rent-The-Runway.html</link>
-				<guid isPermaLink="true">/life/blog/Rent-The-Runway.html</guid>
+				<link>http://localhost:4000/life/blog/Rent-The-Runway.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/blog/Rent-The-Runway.html</guid>
 			</item>
 		
 			<item>
@@ -28,8 +28,8 @@
 </description>
 				
 				<pubDate>Tue, 24 Oct 2017 00:00:00 -0600</pubDate>
-				<link>/life/blog/Hi-Friends.html</link>
-				<guid isPermaLink="true">/life/blog/Hi-Friends.html</guid>
+				<link>http://localhost:4000/life/blog/Hi-Friends.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/blog/Hi-Friends.html</guid>
 			</item>
 		
 			<item>
@@ -41,8 +41,8 @@
 </description>
 				
 				<pubDate>Mon, 25 Sep 2017 00:00:00 -0600</pubDate>
-				<link>/life/blog/Not-All-Relationships-Are-Meant-To-Last.html</link>
-				<guid isPermaLink="true">/life/blog/Not-All-Relationships-Are-Meant-To-Last.html</guid>
+				<link>http://localhost:4000/life/blog/Not-All-Relationships-Are-Meant-To-Last.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/blog/Not-All-Relationships-Are-Meant-To-Last.html</guid>
 			</item>
 		
 			<item>
@@ -55,8 +55,8 @@
 </description>
 				
 				<pubDate>Thu, 07 Sep 2017 00:00:00 -0600</pubDate>
-				<link>/facts/blog/About-the-Author.html</link>
-				<guid isPermaLink="true">/facts/blog/About-the-Author.html</guid>
+				<link>http://localhost:4000/facts/blog/About-the-Author.html</link>
+				<guid isPermaLink="true">http://localhost:4000/facts/blog/About-the-Author.html</guid>
 			</item>
 		
 			<item>
@@ -68,8 +68,8 @@
 </description>
 				
 				<pubDate>Fri, 25 Aug 2017 00:00:00 -0600</pubDate>
-				<link>/college/blog/Simplest-College-Guide.html</link>
-				<guid isPermaLink="true">/college/blog/Simplest-College-Guide.html</guid>
+				<link>http://localhost:4000/college/blog/Simplest-College-Guide.html</link>
+				<guid isPermaLink="true">http://localhost:4000/college/blog/Simplest-College-Guide.html</guid>
 			</item>
 		
 			<item>
@@ -81,8 +81,8 @@
 </description>
 				
 				<pubDate>Mon, 14 Aug 2017 00:00:00 -0600</pubDate>
-				<link>/faith/blog/Why-Finding-A-Church-Took-So-Long.html</link>
-				<guid isPermaLink="true">/faith/blog/Why-Finding-A-Church-Took-So-Long.html</guid>
+				<link>http://localhost:4000/faith/blog/Why-Finding-A-Church-Took-So-Long.html</link>
+				<guid isPermaLink="true">http://localhost:4000/faith/blog/Why-Finding-A-Church-Took-So-Long.html</guid>
 			</item>
 		
 			<item>
@@ -94,8 +94,8 @@
 </description>
 				
 				<pubDate>Sat, 22 Jul 2017 00:00:00 -0600</pubDate>
-				<link>/life/blog/New-Apartment.html</link>
-				<guid isPermaLink="true">/life/blog/New-Apartment.html</guid>
+				<link>http://localhost:4000/life/blog/New-Apartment.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/blog/New-Apartment.html</guid>
 			</item>
 		
 			<item>
@@ -107,8 +107,8 @@
 </description>
 				
 				<pubDate>Sat, 31 Dec 2016 00:00:00 -0700</pubDate>
-				<link>/life/blog/Onto-Better-Things.html</link>
-				<guid isPermaLink="true">/life/blog/Onto-Better-Things.html</guid>
+				<link>http://localhost:4000/life/blog/Onto-Better-Things.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/blog/Onto-Better-Things.html</guid>
 			</item>
 		
 			<item>
@@ -120,8 +120,8 @@
 </description>
 				
 				<pubDate>Sun, 25 Dec 2016 00:00:00 -0700</pubDate>
-				<link>/travel/blog/Christmas-In-Kansas.html</link>
-				<guid isPermaLink="true">/travel/blog/Christmas-In-Kansas.html</guid>
+				<link>http://localhost:4000/travel/blog/Christmas-In-Kansas.html</link>
+				<guid isPermaLink="true">http://localhost:4000/travel/blog/Christmas-In-Kansas.html</guid>
 			</item>
 		
 	</channel>
