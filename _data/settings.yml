@@ -10,6 +10,10 @@ disqus:
   comments: true
   disqus_shortname: 'dianneblogs'
 
+# Google Tracking
+google-ID: 'UA-108973438-1'
+
+
 
 menu:
 - {name: 'Blog',  file: 'blog.html'}
