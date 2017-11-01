@@ -34,5 +34,6 @@ You acknowledge that you have read this Disclaimer and agree to all its terms an
 **Contacting Dianne**
 
 If you have any questions about this Disclaimer, please contact me at divinusvenia@gmail.com.
+
 This document was last updated on October 31, 2017
 
