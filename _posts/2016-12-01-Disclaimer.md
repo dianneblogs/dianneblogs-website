@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Disclaimer"
+author: "Dianne"
+categories: about
+---
+**Disclaimer**
+
+This disclaimer ("Disclaimer", "Agreement") is an agreement between Dianneblogs and you, the reader. This Disclaimer sets forth the general guidelines, terms and conditions of your use of the http://www.dianneblogs.com website and any of its products or services (collectively, "Website" or "Services").
+
+**Representation**
+
+Any views or opinions represented in this blog are personal and belong solely to Dianneblogs and do not represent those of people, institutions or organizations that the owner may or may not be associated with in professional or personal capacity, unless explicitly stated. Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company, or individual.
+
+**Content and postings**
+
+You may not modify, print or copy any part of the blog. Inclusion of any part of this blog in another work, whether in printed or electronic or other form, or inclusion of any part of the blog in another blog by embedding, framing or otherwise without the express permission of Dianneblogs is prohibited.
+
+You may submit comments for the content available on the blog. By uploading or otherwise making available any information to Dianneblogs, you grant Dianneblogs the unlimited, perpetual right to distribute, display, publish, reproduce, reuse and copy the information contained therein. You may not impersonate any other person through the blog. You may not post content that is defamatory, fraudulent, obscene, threatening, invasive of another person's privacy rights or that is otherwise unlawful. You may not post content that infringes on the intellectual property rights of any other person or entity. You may not post any content that includes any computer virus or other code designed to disrupt, damage, or limit the functioning of any computer software or hardware.
+
+**Indemnification and warranties**
+
+While I have made every attempt to ensure that the information contained on the blog is correct, Dianneblogs is not responsible for any errors or omissions, or for the results obtained from the use of this information. All information on the blog is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied. In no event will Dianneblogs be liable to you or anyone else for any decision made or action taken in reliance on the information on the blog or for any consequential, special or similar damages, even if advised of the possibility of such damages. Information on the blog is for general information purposes only and is not intended to provide legal, financial, medical, or any other type of professional advice. Please seek professional assistance should you require it. Furthermore information contained on the blog and any pages linked to from it are subject to change at any time and without warning.
+
+I reserve the right to modify this Disclaimer at any time, effective upon posting of an updated version of this Disclaimer on the blog. When I do I will revise the updated date at the bottom of this page. Continued use of the Website after any such changes shall constitute your consent to such changes. Policy was created with WebsitePolicies.com
+
+**Acceptance of this disclaimer**
+
+You acknowledge that you have read this Disclaimer and agree to all its terms and conditions. By accessing the blog you agree to be bound by this Disclaimer. If you do not agree to abide by the terms of this Disclaimer, you are not authorized to use or access the blog.
+
+**Contacting Dianne**
+
+If you have any questions about this Disclaimer, please contact me at divinusvenia@gmail.com.
+This document was last updated on October 31, 2017
+
