@@ -17,6 +17,7 @@ google-ID: 'UA-108973438-1'
 
 menu:
 - {name: 'Blog',  file: 'blog.html'}
+- {name: 'About', file: 'about.html'}
 - {name: 'Faith', file: 'faith.html'}
 - {name: 'College', file: 'college.html'}
 - {name: 'All Things Life', file: 'lifestyle.html'}
