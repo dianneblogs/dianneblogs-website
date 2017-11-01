@@ -3,7 +3,7 @@ layout: post
 title: "About the Author"
 author: "Dianne"
 categories:  blog
-tags: [sample]
+tags: [about]
 image:
   feature: self.jpg
 ---

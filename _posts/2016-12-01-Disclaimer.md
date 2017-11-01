@@ -3,6 +3,9 @@ layout: post
 title: "Disclaimer"
 author: "Dianne"
 categories: about
+tags: [about]
+image:
+    feature: disclaimer.png
 ---
 **Disclaimer**
 
