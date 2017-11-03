@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Finding A Church Took So Long"
+title: "In Search For A Church"
 author: "Dianne"
 categories: faith blog
 tags: [faith]
