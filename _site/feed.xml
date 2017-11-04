@@ -20,19 +20,6 @@
 			</item>
 		
 			<item>
-				<title>Hi Friends</title>
-				
-				
-					<description>&lt;p&gt;Hi Friends! It’s been awhile since I last blogged.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Tue, 24 Oct 2017 00:00:00 -0600</pubDate>
-				<link>http://localhost:4000/life/blog/Hi-Friends.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/blog/Hi-Friends.html</guid>
-			</item>
-		
-			<item>
 				<title>About the Author</title>
 				
 				
@@ -136,6 +123,19 @@
 				<pubDate>Sun, 25 Dec 2016 00:00:00 -0700</pubDate>
 				<link>http://localhost:4000/travel/blog/Christmas-In-Kansas.html</link>
 				<guid isPermaLink="true">http://localhost:4000/travel/blog/Christmas-In-Kansas.html</guid>
+			</item>
+		
+			<item>
+				<title>Disclaimer</title>
+				
+				
+					<description>&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 01 Dec 2016 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/about/Disclaimer.html</link>
+				<guid isPermaLink="true">http://localhost:4000/about/Disclaimer.html</guid>
 			</item>
 		
 	</channel>

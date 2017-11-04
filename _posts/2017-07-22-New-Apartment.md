@@ -17,7 +17,7 @@ Behind the double doors is a washer and a dryer. Right around that area is a spa
 
 Oh, I swear, we’re replacing those bar stools. We only bought them for temporary seating, for an eating area. Super aware how short they are and I’m 5’1” which makes it extra difficult to reach haha.
 
-![Kitchen00](/assets/img/apartment/apt_kitchen00.jpg){:class="img-responsive"}
+![Kitchen00](/assets/img/apartment/apt_kitchen00.jpg)
 ![Kitchen02](/assets/img/apartment/apt_kitchen02.jpg){:class="img-responsive"}
 ![Kitchen03](/assets/img/apartment/apt_kitchen03.jpg){:class="img-responsive"}
 ![Kitchen04](/assets/img/apartment/apt_kitchen04.jpg){:class="img-responsive"}
